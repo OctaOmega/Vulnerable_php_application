@@ -14,8 +14,8 @@ define("TB_FOLLS", DB . ".followers");
 class dbTriller
 {
 	private $host = "127.0.0.1";
-    private $user = "webadmin";             
-    private $pass = "group1one";            
+    private $user = "<dbuser>";             
+    private $pass = "<dbpass>";            
     private $database = DB;
     
     private $connection;
