@@ -1,8 +1,8 @@
 #!/bin/bash
 
 
-username="rajeshkannan"
-password="interal"
+username="<username>"
+password="<password>"
 
 
 cd /path/to/your/python/script/
